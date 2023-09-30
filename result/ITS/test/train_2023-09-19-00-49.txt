@@ -1,0 +1,34 @@
+2023-09-19 00:49:08,150:[P:12620]: == get_model_complexity_info by thop and fvcore ==
+2023-09-19 00:49:11,519:[P:12620]: Unsupported operator aten::rsub encountered 2 time(s)
+2023-09-19 00:49:11,520:[P:12620]: Unsupported operator aten::pad encountered 19 time(s)
+2023-09-19 00:49:11,521:[P:12620]: Unsupported operator aten::add_ encountered 12 time(s)
+2023-09-19 00:49:11,522:[P:12620]: Unsupported operator aten::add encountered 27 time(s)
+2023-09-19 00:49:11,522:[P:12620]: Unsupported operator aten::sigmoid encountered 6 time(s)
+2023-09-19 00:49:11,523:[P:12620]: Unsupported operator aten::mul encountered 21 time(s)
+2023-09-19 00:49:11,523:[P:12620]: Unsupported operator aten::mean encountered 12 time(s)
+2023-09-19 00:49:11,525:[P:12620]: Unsupported operator aten::sub encountered 13 time(s)
+2023-09-19 00:49:11,526:[P:12620]: Unsupported operator aten::pow encountered 6 time(s)
+2023-09-19 00:49:11,526:[P:12620]: Unsupported operator aten::sqrt encountered 6 time(s)
+2023-09-19 00:49:11,527:[P:12620]: Unsupported operator aten::div encountered 6 time(s)
+2023-09-19 00:49:11,527:[P:12620]: Unsupported operator aten::pixel_shuffle encountered 3 time(s)
+2023-09-19 00:49:11,528:[P:12620]: Unsupported operator aten::sum encountered 4 time(s)
+2023-09-19 00:49:11,528:[P:12620]: Unsupported operator aten::softmax encountered 2 time(s)
+2023-09-19 00:49:11,540:[P:12620]: => FLOPs: 3.409976352G, params: 0.343174M
+2023-09-19 00:49:11,541:[P:12620]: == get_model_complexity_info by thop and fvcore ==
+2023-09-19 00:49:26,057:[P:15904]: == get_model_complexity_info by thop and fvcore ==
+2023-09-19 00:49:29,157:[P:15904]: Unsupported operator aten::rsub encountered 2 time(s)
+2023-09-19 00:49:29,157:[P:15904]: Unsupported operator aten::pad encountered 19 time(s)
+2023-09-19 00:49:29,157:[P:15904]: Unsupported operator aten::add_ encountered 12 time(s)
+2023-09-19 00:49:29,157:[P:15904]: Unsupported operator aten::add encountered 27 time(s)
+2023-09-19 00:49:29,157:[P:15904]: Unsupported operator aten::sigmoid encountered 6 time(s)
+2023-09-19 00:49:29,157:[P:15904]: Unsupported operator aten::mul encountered 21 time(s)
+2023-09-19 00:49:29,157:[P:15904]: Unsupported operator aten::mean encountered 12 time(s)
+2023-09-19 00:49:29,157:[P:15904]: Unsupported operator aten::sub encountered 13 time(s)
+2023-09-19 00:49:29,157:[P:15904]: Unsupported operator aten::pow encountered 6 time(s)
+2023-09-19 00:49:29,157:[P:15904]: Unsupported operator aten::sqrt encountered 6 time(s)
+2023-09-19 00:49:29,157:[P:15904]: Unsupported operator aten::div encountered 6 time(s)
+2023-09-19 00:49:29,157:[P:15904]: Unsupported operator aten::pixel_shuffle encountered 3 time(s)
+2023-09-19 00:49:29,157:[P:15904]: Unsupported operator aten::sum encountered 4 time(s)
+2023-09-19 00:49:29,157:[P:15904]: Unsupported operator aten::softmax encountered 2 time(s)
+2023-09-19 00:49:29,174:[P:15904]: => FLOPs: 3.409976352G, params: 0.343174M
+2023-09-19 00:49:29,174:[P:15904]: == get_model_complexity_info by thop and fvcore ==
